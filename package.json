@@ -1,18 +1,18 @@
 {
   "name": "sss91-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "หวยmvp✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"หวยmvp",
-"แทงหวยหุ้นออนไลน์",
-"lottovip28",
-"คาสิโนหวย 24",
-"the lottovip"
-],
+  "version": "0.2.0",
+  "description": "หวยmvp✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "หวยmvp",
+    "แทงหวยหุ้นออนไลน์",
+    "lottovip28",
+    "คาสิโนหวย 24",
+    "the lottovip"
+  ],
   "repository": "https://github.com/setteebet/sss91-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
